@@ -1,4 +1,4 @@
-Overview:
+**Overview:**
 This project focuses on transitioning a monolithic application to a microservices architecture using AWS services, setting up a CI/CD pipeline, Dockerizing the microservices, and deploying them on Amazon ECS with a blue/green deployment strategy.
 
 ### **Phase 1: Infrastructure Analysis**
